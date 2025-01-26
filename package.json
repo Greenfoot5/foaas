@@ -7,7 +7,10 @@
     "start": "node lib/server.js",
     "test": "node node_modules/nyc/bin/nyc.js --reporter=lcov --exclude=spec node_modules/jasmine/bin/jasmine.js && nyc report --reporter=text-lcov | coveralls"
   },
-  "repository": "git@github.com:tomdionysus/foaas",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tomdionysus/foaas.git"
+  },
   "author": "Tom Cully",
   "license": "WTFPL",
   "devDependencies": {
@@ -19,7 +22,10 @@
     "body-parser": "^1.19.0",
     "compression": "^1.7.4",
     "express": "^4.17.1",
-    "i18next": "1.10.6",
+    "express-subdomain": "^1.0.5",
+    "https": "^1.0.0",
+    "i18next": "23.7.8",
+    "i18next-http-middleware": "^3.5.0",
     "md5": "^2.3.0",
     "method-override": "^3.0.0",
     "request": "^2.88.2",
@@ -32,5 +38,12 @@
       "**/*_spec.js",
       "spec/*"
     ]
+  },
+  "bugs": {
+    "url": "https://github.com/tomdionysus/foaas/issues"
+  },
+  "homepage": "https://github.com/tomdionysus/foaas#readme",
+  "directories": {
+    "lib": "lib"
   }
 }
