@@ -1,14 +1,14 @@
 # FOAAS
 
-*Mar 2023 - v2.3.2*
+*Jan 2025 - v2.3.2*
 
-[![Build Status](https://travis-ci.org/tomdionysus/foaas.svg?branch=master)](https://travis-ci.org/tomdionysus/foaas) [![Coverage Status](https://coveralls.io/repos/github/tomdionysus/foaas/badge.svg?branch=master)](https://coveralls.io/github/tomdionysus/foaas?branch=master)
-[![Coverage Status](https://coveralls.io/repos/github/tomdionysus/foaas/badge.svg?branch=master)](https://coveralls.io/github/tomdionysus/foaas?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/Greenfoot5/foaas/badge.svg?branch=master)](https://coveralls.io/github/Greenfoot5/foaas?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/tomdionysus/foaas/badge.svg?branch=master)](https://coveralls.io/github/Greenfoot5/foaas?branch=master)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 FOAAS (Fuck Off As A Service) provides a modern, RESTful, scalable solution to the common problem of telling people to fuck off.
 
-Please see https://foaas.com for API documentation and examples.
+Please see https://foaas.alchemix.dev for API documentation and examples.
 
 # Installation
 
@@ -49,12 +49,6 @@ API clients are available in a number of languages:
 | Crystal  | `foaas_client` | https://github.com/mamantoha/foaas_client      |
 | Rust     | `foaas-rs`     | https://github.com/jilsahm/foaas-rs            |
 
-# GUI Clients
-
-| Platform          | Info                                                    |
-|:------------------|:--------------------------------------------------------|
-| Web               | https://github.com/hamza1311/fuck-off                   |
-
 
 # Framework Support
 
@@ -62,17 +56,6 @@ API clients are available in a number of languages:
 |:--------------------------------------------|:-----------------------------------------------------------------------------|
 | [Polymer](https://www.polymer-project.org/) | https://github.com/benfonty/fooas-element                                    |
 | [React](https://reactjs.org/) | https://github.com/circa10a/react-foaas-card                                   	     |
-
-# Integrate FOAAS
-
-| Platform/Software     | Name                                                                         |
-|:--------------------------------------------|:-----------------------------------------------------------------------------|
-| Thunderbird/Seamonkey                       | https://addons.mozilla.org/en-US/seamonkey/addon/qfo-quick-fuck-off          |
-| TelegramBot                                 | https://github.com/rajanand02/TelegramFoaasBot                               |
-| Slack                                       | https://github.com/revmischa/foaas-slack                                     |
-| Amazon Echo                                 | https://www.amazon.com/dp/B01LZLFTMQ/ (source available [here](https://github.com/martinschaef/foaas-alex))|
-| Terraform Provider                          | https://github.com/m13t/terraform-provider-foac                              |
-| Discord                                     | https://discord.com/oauth2/authorize?client_id=997665947122937909&scope=bot%20applications.commands&permissions=277025466368 (source available [here](https://github.com/dwisiswant0/foaas-discord))|
 
 # Contributing
 
