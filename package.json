@@ -1,6 +1,6 @@
 {
   "name": "foaas",
-  "version": "2.3.2",
+  "version": "2.3.3",
   "description": "Fuck Off As A Service",
   "main": "lib/server.js",
   "scripts": {
@@ -12,6 +12,9 @@
     "url": "git+ssh://git@github.com/tomdionysus/foaas.git"
   },
   "author": "Tom Cully",
+  "contributors": [
+    { "name": "Harvey Ford" }
+  ],
   "license": "WTFPL",
   "devDependencies": {
     "coveralls": "^3.1.0",
