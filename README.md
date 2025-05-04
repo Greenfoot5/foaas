@@ -1,6 +1,6 @@
 # FOAAS
 
-*May 2025 - v2.3.3*
+*May 2025 - v2.3.4*
 
 [![Coverage Status](https://coveralls.io/repos/github/Greenfoot5/foaas/badge.svg?branch=master)](https://coveralls.io/github/Greenfoot5/foaas?branch=master)
 [![Coverage Status](https://coveralls.io/repos/github/tomdionysus/foaas/badge.svg?branch=master)](https://coveralls.io/github/Greenfoot5/foaas?branch=master)
