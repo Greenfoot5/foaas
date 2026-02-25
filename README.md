@@ -1,6 +1,6 @@
 # FOAAS
 
-*May 2025 - v2.3.4*
+*May 2025 - v2.4.0*
 
 [![Coverage Status](https://coveralls.io/repos/github/Greenfoot5/foaas/badge.svg?branch=master)](https://coveralls.io/github/Greenfoot5/foaas?branch=master)
 [![Coverage Status](https://coveralls.io/repos/github/tomdionysus/foaas/badge.svg?branch=master)](https://coveralls.io/github/Greenfoot5/foaas?branch=master)
@@ -12,15 +12,15 @@ Please see https://foaas.alchemix.dev for API documentation and examples.
 
 # Installation
 
-	npm install
+	pnpm install
 
 # Run
 
-	npm start
+	pnpm start
 
 # Test
 
-	npm test
+	pnpm test
 
 # Docker
 
@@ -31,31 +31,31 @@ Please see https://foaas.alchemix.dev for API documentation and examples.
 
 API clients are available in a number of languages:
 
-| Language | Name           | Info                                           |
-|:---------|:---------------|:-----------------------------------------------|
-| JS/Node  | `foaas-client` | https://www.npmjs.org/package/foaas-client     |
-| Ruby     | `foaas-client` | https://github.com/petedmarsh/foaas-client     |
-| PHP      | `foaas-php`    | https://github.com/klaude/foaas-php            |
-| Python   | `foaas-python` | https://github.com/dmpayton/foaas-python       |
-| Python   | `foaap`        | https://github.com/ilhomidin/foaap             |
-| R        | `rfoaas`       | https://github.com/eddelbuettel/rfoaas         |
-| CLI/bash | `foaas.sh`     | https://github.com/RaymiiOrg/foaas.sh          |
-| CLI      | `foass-cli`    | https://github.com/palash25/foaas-cli          |
-| .NET     | `FOAASClient`  | https://github.com/igorkulman/FOAASClient      |
-| .NET Core| `foaas-dotnet` | https://github.com/Zuev-Alexander/foaas-dotnet |
-| Java     | `JFOAAS`       | https://github.com/SSederberg/FOAAS-Java       |
-| Go       | `go-fuck-off`  | https://godoc.org/github.com/ds0nt/go-fuck-off |
-| Erlang   | `foaas-erlang` | https://github.com/rikribbers/foaas-erlang     |
-| Crystal  | `foaas_client` | https://github.com/mamantoha/foaas_client      |
-| Rust     | `foaas-rs`     | https://github.com/jilsahm/foaas-rs            |
+| Language  | Name           | Info                                           |
+|:----------|:---------------|:-----------------------------------------------|
+| JS/Node   | `foaas-client` | https://www.npmjs.org/package/foaas-client     |
+| Ruby      | `foaas-client` | https://github.com/petedmarsh/foaas-client     |
+| PHP       | `foaas-php`    | https://github.com/klaude/foaas-php            |
+| Python    | `foaas-python` | https://github.com/dmpayton/foaas-python       |
+| Python    | `foaap`        | https://github.com/ilhomidin/foaap             |
+| R         | `rfoaas`       | https://github.com/eddelbuettel/rfoaas         |
+| CLI/bash  | `foaas.sh`     | https://github.com/RaymiiOrg/foaas.sh          |
+| CLI       | `foass-cli`    | https://github.com/palash25/foaas-cli          |
+| .NET      | `FOAASClient`  | https://github.com/igorkulman/FOAASClient      |
+| .NET Core | `foaas-dotnet` | https://github.com/Zuev-Alexander/foaas-dotnet |
+| Java      | `JFOAAS`       | https://github.com/SSederberg/FOAAS-Java       |
+| Go        | `go-fuck-off`  | https://godoc.org/github.com/ds0nt/go-fuck-off |
+| Erlang    | `foaas-erlang` | https://github.com/rikribbers/foaas-erlang     |
+| Crystal   | `foaas_client` | https://github.com/mamantoha/foaas_client      |
+| Rust      | `foaas-rs`     | https://github.com/jilsahm/foaas-rs            |
 
 
 # Framework Support
 
-| Framework     | Info                                                                         |
-|:--------------------------------------------|:-----------------------------------------------------------------------------|
-| [Polymer](https://www.polymer-project.org/) | https://github.com/benfonty/fooas-element                                    |
-| [React](https://reactjs.org/) | https://github.com/circa10a/react-foaas-card                                   	     |
+| Framework                                   | Info                                         |
+|:--------------------------------------------|:---------------------------------------------|
+| [Polymer](https://www.polymer-project.org/) | https://github.com/benfonty/fooas-element    |
+| [React](https://reactjs.org/)               | https://github.com/circa10a/react-foaas-card |
 
 # Contributing
 

@@ -1,11 +1,11 @@
 {
   "name": "foaas",
-  "version": "2.3.4",
+  "version": "2.4.0",
   "description": "Fuck Off As A Service",
   "main": "lib/server.js",
   "scripts": {
     "start": "node lib/server.js",
-    "test": "node node_modules/nyc/bin/nyc.js --reporter=lcov --exclude=spec node_modules/jasmine/bin/jasmine.js && nyc report --reporter=text-lcov | coveralls"
+    "test": "nyc --reporter=lcov --exclude=spec jasmine && nyc report --reporter=text"
   },
   "repository": {
     "type": "git",
@@ -19,7 +19,6 @@
   ],
   "license": "WTFPL",
   "devDependencies": {
-    "coveralls": "^3.1.0",
     "jasmine": "^3.6.1",
     "nyc": "^15.1.0"
   },
